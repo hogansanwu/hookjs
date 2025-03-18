@@ -5,7 +5,7 @@
 // @author      Hogan Pei
 // @match       https://*/*
 // @grant       none
-// @homepageURL https://gitee.com/hoganpei/jshook
+// @homepageURL https://github.com/hogansanwu
 // @run-at      document-start
 // ==/UserScript==
 
